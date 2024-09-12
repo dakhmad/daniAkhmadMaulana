@@ -1,7 +1,11 @@
-<!--## Hi there 👋 -->
-
+<!--## Hi there 👋 
 # Halo semua! 
- 
+# 💫 About Me:
+Hai 👋, I'm Dani</h1>
+<h1 align="center">Assalamu'alaikum.. </h1>
+-->
+# Assalamu'alaikum Warahmatullahi Wabarakatuh..
+
 Perkenalkan nama saya **Dani Akhmad Maulana**.<br>
  
 Saya seorang **Pelajar** yang Alhamdulillah sedang berkuliah di **Universitas Muhammadiyah Sukabumi**.<br>
